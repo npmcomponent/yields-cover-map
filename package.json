@@ -1,0 +1,13 @@
+{
+  "name": "yields-cover-map",
+  "description": "map coverage data from yields/instrument",
+  "version": "0.0.1",
+  "keywords": [
+    "coverage",
+    "map",
+    "test"
+  ],
+  "main": "index.js",
+  "dependencies": {},
+  "license": "MIT"
+}
